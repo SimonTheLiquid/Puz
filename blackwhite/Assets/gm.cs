@@ -381,7 +381,7 @@ public class gm : MonoBehaviour
                 Moveind();
             }
 
-            if (Input.GetMouseButtonUp(1) && on)
+            if (Input.GetMouseButtonUp(0) && on)
             {
                 Flip();
             }

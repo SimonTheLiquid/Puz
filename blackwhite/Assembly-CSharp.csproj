@@ -104,6 +104,7 @@
     <Compile Include="Assets\moveball.cs" />
     <Compile Include="Assets\setblock.cs" />
     <Compile Include="Assets\setstage.cs" />
+    <Compile Include="Assets\textbox.cs" />
     <Compile Include="Assets\ts.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
