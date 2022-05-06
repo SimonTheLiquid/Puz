@@ -1,3 +1,3 @@
 # Puz
  
-## Codes are in the assets file
+## Codes are .cs in the assets file
